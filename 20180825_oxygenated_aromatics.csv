@@ -1,0 +1,19 @@
+Species,CAS,YSI,SMILES
+anisole,100-66-3,111,COc1ccccc1
+benzyl alcohol,100-51-6,189,OCc1ccccc1
+3-methylphenol,108-39-4,103,Cc1cccc(O)c1
+benzaldehyde,100-52-7,119,O=Cc1ccccc1
+ethylbenzene,100-41-4,216,CCc1ccccc1
+phenetole,103-73-1,112,CCOc1ccccc1
+benzyl methyl ether,538-86-3,202,COCc1ccccc1
+1-phenylethanol,98-85-1,142,CC(O)c1ccccc1
+2-phenylethanol,60-12-8,207,OCCc1ccccc1
+2-ethylphenol,90-00-6,120,CCc1ccccc1O
+3-ethylphenol,620-17-7,138,CCc1cccc(O)c1
+2-xylene,95-47-6,200,Cc1ccccc1C
+4-xylene,106-42-3,202,Cc1ccc(C)cc1
+2-methylanisole,578-58-5,122,COc1ccccc1C
+3-methylanisole,100-84-5,126,COc1cccc(C)c1
+4-methylanisole,104-93-8,123,COc1ccc(C)cc1
+3-methyl benzyl alcohol,587-03-1,243,Cc1cccc(CO)c1
+"2,4-dimethylphenol",105-67-9,144,Cc1ccc(O)c(C)c1
